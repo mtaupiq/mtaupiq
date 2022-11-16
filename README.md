@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mtaupiq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Taupiq
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Project with Next.js or NodeJS
+- 📫 How to reach me? Email me at mtaupiq@gmail.com
 
 <!---
 mtaupiq/mtaupiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
